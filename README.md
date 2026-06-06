@@ -23,13 +23,6 @@ Interactive dashboard with:
 - Regional Insights
 - KPI Tracking
 
-### 📚 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Data Analytics
-- Business Intelligence
-
 ### 🎯 Career Goal
 
 To become a skilled Data Analyst and help businesses make data-driven decisions.
