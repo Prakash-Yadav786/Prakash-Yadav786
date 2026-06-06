@@ -23,14 +23,6 @@ Interactive dashboard with:
 - Regional Insights
 - KPI Tracking
 
-#### HR Analytics Dashboard
-Interactive employee attrition and workforce analysis dashboard.
-
-#### Power BI Projects
-- Sales Performance Analysis
-- Customer Insights Dashboard
-- Business KPI Reports
-
 ### 📚 Currently Learning
 
 - Advanced SQL
@@ -44,8 +36,8 @@ To become a skilled Data Analyst and help businesses make data-driven decisions.
 
 ### 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/prakash-yadav786
+- Email: yadavprakash7861@gmail.com
 
 ### ⚡ Fun Fact
 
