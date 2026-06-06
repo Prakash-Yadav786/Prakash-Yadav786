@@ -1,6 +1,6 @@
 # Hi there, I'm Prakash Yadav 👋
 
-## Aspiring Data Analyst
+## Data Analyst | Excel | SQL | Power BI | Dashboard Development
 
 Passionate about transforming raw data into meaningful insights through dashboards, reports, and visualizations.
 
