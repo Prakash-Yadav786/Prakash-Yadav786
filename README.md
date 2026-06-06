@@ -9,7 +9,6 @@ Passionate about transforming raw data into meaningful insights through dashboar
 - Microsoft Excel
 - SQL
 - Power BI
-- Data Cleaning
 - Data Visualization
 - Dashboard Development
 - Business Analysis
